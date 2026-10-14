@@ -1,0 +1,7 @@
+DEPT: engineering
+CLASS: restricted
+TITLE: Engineering - Incident Postmortem 2026-07
+
+Internal only: the July outage was caused by an expired TLS certificate on the payments gateway.
+Detection took 42 minutes because the expiry alert was routed to a muted channel.
+Action items: automate certificate renewal and add a paging alert 14 days before expiry.

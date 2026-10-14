@@ -1,0 +1,7 @@
+DEPT: hr
+CLASS: public
+TITLE: HR - Performance Review Process
+
+Performance reviews happen twice a year, in April and October.
+Employees complete a self-assessment, then meet their manager to agree on goals.
+Promotion nominations are submitted by managers during the October cycle.

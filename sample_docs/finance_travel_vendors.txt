@@ -1,0 +1,7 @@
+DEPT: finance
+CLASS: public
+TITLE: Finance - Approved Travel Vendors
+
+Book flights through the approved travel desk to get corporate fares.
+Preferred hotel partners are listed on the finance portal by city.
+Cab rides for client visits can be claimed with a receipt from the approved app.

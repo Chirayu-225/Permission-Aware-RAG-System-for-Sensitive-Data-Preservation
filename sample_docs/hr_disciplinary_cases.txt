@@ -1,0 +1,7 @@
+DEPT: hr
+CLASS: restricted
+TITLE: HR - Open Disciplinary Cases
+
+Confidential, HR only. Case 14-B: a formal warning was issued for repeated policy violations.
+Case 15-A: an investigation into an expense claim dispute is ongoing.
+Case details must never be discussed with anyone outside the HR team.

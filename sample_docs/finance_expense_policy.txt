@@ -1,0 +1,7 @@
+DEPT: finance
+CLASS: public
+TITLE: Finance - Expense Reimbursement Policy
+
+Travel expenses above INR 5000 require pre-approval from your manager.
+Submit receipts within 15 days of the expense via the finance portal.
+Per-diem for domestic travel is INR 1500 per day, international is USD 60 per day.

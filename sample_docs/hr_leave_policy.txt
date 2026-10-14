@@ -1,0 +1,8 @@
+DEPT: hr
+CLASS: public
+TITLE: HR - Leave Policy
+
+All employees get 18 paid leave days per year plus 10 public holidays.
+Sick leave requires a doctor's note after 2 consecutive days.
+Maternity leave is 26 weeks, paternity leave is 2 weeks.
+Leave requests are submitted through the HR portal at least 3 days in advance.

@@ -1,0 +1,7 @@
+DEPT: engineering
+CLASS: public
+TITLE: Engineering - Code Review Guidelines
+
+Every pull request needs one approving review before merge.
+Keep pull requests under 400 changed lines where possible.
+Reviewers respond within one working day; tag the PR with the affected service.

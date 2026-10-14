@@ -1,0 +1,7 @@
+DEPT: finance
+CLASS: restricted
+TITLE: Finance - FY27 Budget Draft
+
+Draft, finance only: the FY27 hiring budget is planned at 35 new roles, mostly in engineering.
+The marketing budget is to be cut by 12 percent next year.
+These figures are not final and must not be shared outside finance.
